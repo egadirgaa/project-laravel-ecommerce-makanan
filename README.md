@@ -27,3 +27,7 @@
   <img src="public/preview/tampilan15.png" alt="tampilan15.png" width="200">
   <img src="public/preview/tampilan16.png" alt="tampilan16.png" width="200">
 </p>
+
+<p align="center">
+  <img src="public/preview/tampilan17.png" alt="tampilan17.png" width="200">
+</p>
